@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+Name: Sean Jalen Collado
+Class: OPS435 Section NAA
 <!--
 **sjcollado/sjcollado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
